@@ -1,0 +1,5 @@
+local_original/
+backups/
+source_repo/
+__pycache__/
+*.pyc

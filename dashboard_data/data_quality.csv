@@ -1,0 +1,5 @@
+﻿step,cleaning_step,unit,rows_before,rows_after,reason,rows_removed
+1,"Reviews collected from the Steam API (Apex Legends, 5 languages)",reviews,218380,218380,Starting point.,0
+2,Keep only the window all five languages cover,reviews,218380,169612,"The collector pulls newest first and stops at a cap, so each language reaches back a different distance. Comparing raw data compares different time periods. Window: 2024-07-20 to 2026-09-21.",48768
+3,Exclude the review-bombing months (July to September 2024),reviews,169612,114739,"A protest in July 2024 spiked volume and collapsed the score in every language. It was faking a regional gap (Simplified script gap 20.8 pts with it, 4.1 without).",54873
+4,Widen the connection-complaint keywords to include 斷線 (Traditional script negative reviews),negative reviews matching the connection topic,354,371,"A sampled review said the game always disconnects using 斷線, a term the keyword list missed, so the connection theme was undercounted. Rows here are matched reviews, not rows dropped.",-17

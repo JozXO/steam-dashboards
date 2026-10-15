@@ -1,0 +1,21 @@
+game,language,hours_played_bucket,reviews,positive_reviews,positive_share,bucket_order
+Apex Legends,English,Under 20h,15120,8889,58.8,1
+Apex Legends,English,20 to 100h,14610,10051,68.8,2
+Apex Legends,English,100 to 500h,16266,10226,62.9,3
+Apex Legends,English,Over 500h,12424,6980,56.2,4
+Apex Legends,Japanese,Under 20h,345,199,57.7,1
+Apex Legends,Japanese,20 to 100h,515,291,56.5,2
+Apex Legends,Japanese,100 to 500h,995,456,45.8,3
+Apex Legends,Japanese,Over 500h,1751,634,36.2,4
+Apex Legends,Korean,Under 20h,287,170,59.2,1
+Apex Legends,Korean,20 to 100h,358,244,68.2,2
+Apex Legends,Korean,100 to 500h,660,440,66.7,3
+Apex Legends,Korean,Over 500h,630,361,57.3,4
+Apex Legends,Simplified script,Under 20h,6809,4378,64.3,1
+Apex Legends,Simplified script,20 to 100h,8132,5677,69.8,2
+Apex Legends,Simplified script,100 to 500h,12204,7042,57.7,3
+Apex Legends,Simplified script,Over 500h,18850,9469,50.2,4
+Apex Legends,Traditional script,Under 20h,472,232,49.2,1
+Apex Legends,Traditional script,20 to 100h,615,312,50.7,2
+Apex Legends,Traditional script,100 to 500h,1299,487,37.5,3
+Apex Legends,Traditional script,Over 500h,2397,824,34.4,4
